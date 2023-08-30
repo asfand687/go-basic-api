@@ -6,7 +6,6 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing bo
 
 Before you begin, ensure you have met the following requirements:
 - Go programming language is installed. [Install Go](https://golang.org/doc/install)
-- Gin framework is installed. Run `go get -u github.com/gin-gonic/gin`
 - MySQL database is installed and running.
 
 ## Setup
